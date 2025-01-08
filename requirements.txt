@@ -1,7 +1,6 @@
-numpy==2.2.1
-pandas==2.2.3
-scikit_learn==1.6.0
-streamlit==1.41.1
-torch==2.5.1+cu118
-torch==2.5.1
-transformers==4.47.1
+numpy
+pandas
+scikit_learn
+streamlit
+torch
+transformers
