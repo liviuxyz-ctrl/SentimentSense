@@ -119,13 +119,5 @@ numpy==1.23.5
 
 ---
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request with any improvements or new features.
-
----
-
-## License
-
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 ```
